@@ -1,0 +1,4 @@
+#Mon Nov 02 15:40:39 CST 2015
+eclipse.preferences.version=1
+validator.Checked=WebRoot/WEB-INF/page/system/menu,WebRoot/resource/mobilePage/images/jquery.1.7.1.min.js
+validator.Unchecked=
